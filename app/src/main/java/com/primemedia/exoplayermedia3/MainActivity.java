@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     Context context = this;
     String Url = "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4";
     public static long timeSaver;
+    String urlNew = "test.com";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
